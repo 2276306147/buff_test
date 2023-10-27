@@ -1,0 +1,3 @@
+/home/bc/桌面/buff1/YOLO-of-RoboMaster-Keypoints-Detection-2023-main/C++_inference_openvino_kpt/build/CMakeFiles/openvino_kpt_class.dir
+/home/bc/桌面/buff1/YOLO-of-RoboMaster-Keypoints-Detection-2023-main/C++_inference_openvino_kpt/build/CMakeFiles/edit_cache.dir
+/home/bc/桌面/buff1/YOLO-of-RoboMaster-Keypoints-Detection-2023-main/C++_inference_openvino_kpt/build/CMakeFiles/rebuild_cache.dir
